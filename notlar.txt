@@ -1,2 +1,7 @@
 1. Ders: Bilgisayar Muhendisligine Giris
 2. Ders: Algoritmalar ve Programlama
+git init: Yeni bir Git deposu baslatir.
+git status: Deponun ve takip edilen dosyalarin durumunu gosterir.
+git add: Dosyalari staging area (gecici alan) bolgesine ekler.
+git commit: Staging area'daki degisiklikleri yerel depoya kaydeder.
+git log: Yapilan commit gecmisini listeler.
