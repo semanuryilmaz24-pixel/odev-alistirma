@@ -5,3 +5,4 @@ git status: Deponun ve takip edilen dosyalarin durumunu gosterir.
 git add: Dosyalari staging area (gecici alan) bolgesine ekler.
 git commit: Staging area'daki degisiklikleri yerel depoya kaydeder.
 git log: Yapilan commit gecmisini listeler.
+4. Ders: Algoritmalar
